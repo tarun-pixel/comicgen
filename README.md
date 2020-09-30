@@ -1,4 +1,4 @@
-# Comicgen
+# Something new in Comicgen
 
 <!-- var introduction -->
 We love comics. We badly wanted to create comic strips. But there was one
